@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4308b32-c3e2-4cc9-a1e9-c79e14024db0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yqu680Y8OpZIx2SuJMjD6PhiOR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hemal Sheth\IdeaProjects\wcht\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OperaBrowserTest">
+    <configuration name="ChromeBrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.ChromeBrowserTest" />
+      <module name="wcht" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirefoxBrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.FirefoxBrowserTest" />
+      <module name="wcht" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InternetExplorerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.InternetExplorerTest" />
+      <module name="wcht" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperaBrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.OperaBrowserTest" />
+      <module name="wcht" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OperaBrowserTest" />
+        <item itemvalue="Application.InternetExplorerTest" />
+        <item itemvalue="Application.FirefoxBrowserTest" />
+        <item itemvalue="Application.ChromeBrowserTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4308b32-c3e2-4cc9-a1e9-c79e14024db0" name="Default Changelist" comment="" />
+      <created>1583682268121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583682268121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583683456748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583683456748" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1583682412630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583682412630" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583770358941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583770358941" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583770358941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583770358941" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583770358940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583770358940" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583770358941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583770358941" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1583682417449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583682417449" />
+    <state x="65" y="0" key="new project wizard" timestamp="1583756063312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583756063312" />
+  </component>
+</project>
